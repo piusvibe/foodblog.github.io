@@ -1,0 +1,52 @@
+CRITICAL - 2023-04-06 19:40:04 --> include_once(/home/stud/1/1928477/public_html/vibe/app/Controllers/PostController.php): Failed to open stream: Permission denied
+in SYSTEMPATH/Autoloader/Autoloader.php on line 312.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 6 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 7 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 19:40:34 --> include_once(/home/stud/1/1928477/public_html/vibe/app/Controllers/PostController.php): Failed to open stream: Permission denied
+in SYSTEMPATH/Autoloader/Autoloader.php on line 312.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(312): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(312): include_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 6 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 7 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 23:06:47 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->fetch()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 23:07:02 --> Class "App\Controllers\ConfigServices" not found
+in APPPATH/Controllers/PostController.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 23:08:26 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->fetch()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 23:10:13 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 46.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->fetch()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-06 23:10:32 --> Class "App\Controllers\ConfigServices" not found
+in APPPATH/Controllers/PostController.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

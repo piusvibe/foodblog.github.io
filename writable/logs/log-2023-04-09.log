@@ -1,0 +1,108 @@
+CRITICAL - 2023-04-09 17:50:34 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 152.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 17:50:42 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 152.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 17:50:58 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 152.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 17:51:04 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 152.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->delete()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:12:27 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 167.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:12:30 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 167.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:12:34 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 167.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:27:12 --> Could not move file "phpktfJbF" to "uploads/avatar/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/PostController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:28:46 --> Could not move file "phptYyXOR" to "uploads/avatar/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/PostController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:34:04 --> Could not move file "phpOli3k6" to "uploads/avatar/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/PostController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:34:28 --> Could not move file "phpNjmlTZ" to "uploads/avatar/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/PostController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:36:49 --> Could not move file "phpke3e2M" to "uploads/avatar/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/PostController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:38:47 --> Could not move file "phpxr0y7X" to "uploads/avatar/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/PostController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->add()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:45:09 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 167.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:45:18 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 167.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 18:46:08 --> Class "App\Controllers\AppModelsPostModel" not found
+in APPPATH/Controllers/PostController.php on line 167.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PostController->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
